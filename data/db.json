@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "details": "lorem Ipsum is simply dummy text of the printing and tpescripting industry.lorem Ipsum is simply dummy text of the printing and tpescripting industry.lorem Ipsum is simply dummy text of the printing and tpescripting industry. Lorem",
+      "category": "reminders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "details": "lorem Ipsum is simply dummy text of the printing and tpescripting industry.lorem Ipsum is simply dummy text of the printing and tpescripting industry.",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza",
+      "details": "lorem Ipsum is simply dummy text of the printing and tpescripting industry.lorem Ipsum is simply dummy text of the printing and tpescripting industry.",
+      "category": "todos",
+      "id": 3
+    },
+    {
+      "title": "yeah it is working",
+      "details": "lorem Ipsum is simply dummy text of the printing and tpescripting industry.lorem Ipsum is simply dummy text of the printing and tpescripting industry.",
+      "category": "work",
+      "id": 4
+    },
+    {
+      "title": "salary",
+      "details": "Yeah!!! am recieving my alert today. just a little time remainijng for me to recieve the alert and i will go and buy benz",
+      "category": "money",
+      "id": 5
+    }
+  ]
+}
